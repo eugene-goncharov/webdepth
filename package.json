@@ -1,0 +1,24 @@
+{
+  "name": "painter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "crawler": "^0.4.3",
+    "gm": "^1.22.0",
+    "immutable": "^3.8.1",
+    "immutable-table": "^1.0.0",
+    "jsdom": "^9.4.1",
+    "node-png": "^0.4.3",
+    "pngjs": "^2.3.1"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.10.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
